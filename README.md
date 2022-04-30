@@ -12,3 +12,5 @@ Code Used
 
 Link to the Problem Statement and Dataset
   - https://www.kaggle.com/competitions/home-credit-default-risk
+
+Youtube Link of the Video explaining the set-up and the problem statement
