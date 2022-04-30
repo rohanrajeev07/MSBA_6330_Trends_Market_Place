@@ -10,5 +10,5 @@ AWS Quicksight
 Code Used
   - Code used in the AWS Sagemaker platform
 
-Data 
-  - S3 link to the dataset
+Link to the Problem Statement and Dataset
+  - https://www.kaggle.com/competitions/home-credit-default-risk
