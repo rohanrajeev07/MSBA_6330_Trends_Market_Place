@@ -3,8 +3,9 @@ Repository of code and files done for the Big Data Trends Market Place class of 
 
 _This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota._
 
-**Abstract**
-One of the main problems for loan providers is to find out if a potential applicant is likely to repay the loan or not. Knowing this in advance safeguards them against huge losses. Credit risk arises when a corporate or individual borrower fails to meet their debt obligations. The risk specifically is the probability that the lender will not receive the principal and interest payments of a debt required to service the debt extended to a borrower. It is this risk that inhibits the lender from providing a borrowing experience, for fear of incurring losses. Many new age customers are also unable to borrow from traditional banks due to a lack of credit history. Hence, some of the leading fintech unicorns often use predictive models from historical data to estimate their risk and maximize their returns. 
+**Summary**
+One of the main problems for loan providers is to find out if a potential applicant is likely to repay the loan or not. Knowing this in advance safeguards them against huge losses. Credit risk arises when a corporate or individual borrower fails to meet their debt obligations. The risk specifically is the probability that the lender will not receive the principal and interest payments of a debt required to service the debt extended to a borrower. It is this risk that inhibits the lender from providing a borrowing experience, for fear of incurring losses. Many new age customers are also unable to borrow from traditional banks due to a lack of credit history. Hence, some of the leading fintech unicorns often use predictive models from historical data to estimate their risk and maximize their returns.
+We have utilized AWS services to solve this problem. The AWS S3 buckets has been used to store data that is historical and generated from the process. Sagemaker has been utilized to train and predict the models to evaluate risk and finall Quicksight has been used to visualize the results for all stakeholders
 
 Structure of the Folder
 
